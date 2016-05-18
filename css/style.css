@@ -1,0 +1,39 @@
+/*HEADER*/
+.header{
+  text-align: center;
+}
+.photo{
+  margin-left: 38%;
+}
+p {
+  font-size: 125%;
+  margin: 20px 20px 20px 20px;
+  text-align: center;
+}
+ul{
+  font-size: 125%;
+  margin: 40px 40px 40px 40px;
+}
+
+/*CONTENT*/
+.reason{
+  font-size: 130%;
+  font-style: italic;
+  margin-top: 3%;
+  text-align: left;
+  padding-left: 90px;
+}
+.contact{
+  font-size: 130%;
+  padding: 50px 50px 50px 50px;
+}
+.social{
+  font-size: 130%;
+  padding: 0px 50px 50px 50px;
+}
+
+/*FOOTER*/
+.feedback{
+  font-size: 130%;
+  padding: 50px 50px 50px 50px;
+}
